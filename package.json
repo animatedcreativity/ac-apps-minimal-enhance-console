@@ -1,0 +1,20 @@
+{
+  "name": "ac-apps-minimal-enhance-console",
+  "version": "0.0.5",
+  "description": "enhance/console.js: A module bundled by ac-bundle-module.",
+  "main": "enhance/console.js",
+  "scripts": {
+    "start": "node enhance/console.js"
+  },
+  "keywords": [
+    "enhance/console.js",
+    "ac-bundle-app",
+    "ac-bundle-module"
+  ],
+  "repository": {
+    "url": "https://animatedcreativity.com/code/node-js/ac-apps-minimal/modules/ac-apps-minimal-enhance-console/"
+  },
+  "author": "Animated Creativity",
+  "license": "MIT",
+  "dependencies": {}
+}
